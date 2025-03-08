@@ -20,7 +20,7 @@ O design foi desenvolvido utilizando **CSS Grid** para dispor os cards dinamicam
 
 ## 🌟 Visualização
 
-![Preview do Projeto](https://i.postimg.cc/YSPXDSzP/Design-sem-nome.gif)
+![Preview do Projeto](https://s3.gifyu.com/images/bbcJ7.gif)
 
 ## 📌 Aprendizados
 
